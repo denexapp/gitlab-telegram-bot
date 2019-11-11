@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-telegram-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denexapp/gitlab-telegram-bot.git"
+  },
+  "author": "denexapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denexapp/gitlab-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/denexapp/gitlab-telegram-bot#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
