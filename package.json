@@ -18,6 +18,7 @@
   "homepage": "https://github.com/denexapp/gitlab-telegram-bot#readme",
   "dependencies": {
     "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
     "node-telegram-bot-api": "^0.40.0"
   },
   "engines": {
