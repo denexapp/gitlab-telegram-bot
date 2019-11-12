@@ -20,8 +20,5 @@
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "node-telegram-bot-api": "^0.40.0"
-  },
-  "engines": {
-    "node": "13.x"
   }
 }
