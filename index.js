@@ -9,7 +9,7 @@ const bot = new TelegramBot(telegramToken, { polling: true });
 bot.on('message', msg => {
   bot.sendMessage(
     msg.chat.id,
-    "There's been an error processing your request. Details can be found at this page: https://bit.ly/2CxXCdz"
+    "There's been an error processing your request. Details can be found at this page: https://bit.ly/2O74ow6"
   );
 });
 
